@@ -45,3 +45,27 @@ img {
   object-fit: cover;
   object-position: center;
 }
+
+@media(max-width: 1199px) {
+  .botImage {
+    object-position: left;
+}
+}
+
+@media(max-width: 767px) {
+  .botImage {
+    object-position: -160px;
+  }
+}
+
+
+@media(max-width: 576px) {
+  body {
+    background: #000;
+  }
+  .botImage {
+    min-height: 500px;
+    object-position: -87px;
+    height: auto;
+  }
+}

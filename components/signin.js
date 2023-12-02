@@ -81,7 +81,7 @@ const SignIn = () => {
                     <div className="w-full lg:w-6 p-4 lg:p-7" style={{ backgroundColor: 'rgba(255,255,255,.7)' }}>
                         <img src="/demo/images/blocks/logos/Booming Bulls.png" alt="Image" height="150" className="mb-6" />
                         <div className="text-xl text-black-alpha-90 font-500 mb-3">Welcome to Booming Bulls AI Bot</div>
-                        <p className="text-black-alpha-50 line-height-3 mt-0 mb-6">Quis vel eros donec ac odio tempor orci dapibus. In hac habitasse platea dictumst quisque.</p>
+                        <p className="text-black-alpha-50 line-height-3 mt-0 mb-6">This is Boomingbulls Testing Bot, kindly Scroll Down and Sign In, if not, Then Sign Up.</p>
                         <ul className="list-none p-0 m-0">
                             <li className="flex align-items-start mb-4">
                                 <div>
